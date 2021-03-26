@@ -10,7 +10,7 @@ This is a simple intro in git workflow and comparison
 Sample website with plenty of files for demos
 
 ## How to contribute
-You can add more stuff or fork this
+Please fork this repo for demo
 
 ## Copyright
 Copyright 2021 Git.Training
