@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jan Paul Galido  ASE  @jpgalido
 
 # THANKS
 
