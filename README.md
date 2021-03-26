@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 
 ## How to contribute
 You can add more stuff or fork this
+
+## Copyright
+Copyright 2021 Git.Training
